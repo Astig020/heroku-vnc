@@ -29,6 +29,8 @@ RUN set -ex; \
         wget \
         g++ \
 	unzip \
+	nano \
+	screen \
         ssh \
 	ffmpeg \
 	chromium-browser \
