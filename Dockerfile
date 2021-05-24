@@ -27,6 +27,8 @@ RUN set -ex; \
         git \
 	pulseaudio \
         wget \
+# 	screen \
+        nano \
         g++ \
 	unzip \
         ssh \
